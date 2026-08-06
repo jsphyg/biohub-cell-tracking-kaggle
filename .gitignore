@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+data/
+artifacts/
+submission*.csv
+*.zarr/
+.kaggle/
+
