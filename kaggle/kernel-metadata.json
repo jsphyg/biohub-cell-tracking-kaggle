@@ -1,0 +1,14 @@
+{
+  "id": "jsphyg/biohub-cell-tracking-baseline",
+  "title": "Biohub Cell Tracking Baseline",
+  "code_file": "baseline_pipeline.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": true,
+  "dataset_sources": [],
+  "competition_sources": ["biohub-cell-tracking-during-development"],
+  "kernel_sources": [],
+  "user": "jsphyg"
+}
