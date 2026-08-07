@@ -6,8 +6,8 @@
   "kernel_type": "notebook",
   "is_private": true,
   "enable_gpu": false,
-  "enable_internet": true,
-  "dataset_sources": [],
+  "enable_internet": false,
+  "dataset_sources": ["dathbdinh/biohub-zarr-offline-wheels"],
   "competition_sources": ["biohub-cell-tracking-during-development"],
   "kernel_sources": [],
   "user": "jsphyg"
